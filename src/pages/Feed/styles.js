@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Container = styled.View``;
+export const Container = styled.SafeAreaView``;
 
 export const Post = styled.View`
   margin-top: 16px;
@@ -32,4 +32,11 @@ export const PostImage = styled.Image`
 export const Description = styled.Text`
   padding: 16px;
   line-height: 18px;
+`;
+
+export const Loading = styled.ActivityIndicator.attrs({
+  size: 'small',
+  color: '#999',
+})`
+  margin: 30px 0;
 `;
