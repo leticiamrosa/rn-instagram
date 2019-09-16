@@ -2,16 +2,16 @@
   "feed": [
     {
       "id": 1,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/1.jpeg",
-      "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/1.jpeg",
+      "image": "https://geeksinaction.com.br/wp-content/uploads/2018/03/27545555_595757667445895_183941347808502997_n-2-720x440.jpg",
+      "small": "https://geeksinaction.com.br/wp-content/uploads/2018/03/27545555_595757667445895_183941347808502997_n-2-720x440.jpg",
       "aspectRatio": 0.834,
-      "description": "Working hard at Rocketseat!",
+      "description": "Você não escolhe sentir medo. Mas escolhe o que fazer em relação a isso.",
       "authorId": 1
     },
     {
       "id": 2,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/2.jpeg",
-      "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/2.jpeg",
+      "image": "https://i1.wp.com/www.showmetech.com.br/wp-content/uploads//2018/12/avengers-endgame-tony-stark.jpg?resize=990%2C556&ssl=1",
+      "small": "https://i1.wp.com/www.showmetech.com.br/wp-content/uploads//2018/12/avengers-endgame-tony-stark.jpg?resize=990%2C556&ssl=1",
       "aspectRatio": 0.834,
       "description": "Code, code and more code!",
       "authorId": 2
@@ -164,28 +164,28 @@
   "authors": [
     {
       "id": 1,
-      "name": "dieegosf",
-      "avatar": "https://avatars0.githubusercontent.com/u/2254731?s=50&v=4"
+      "name": "Capitã Marvel",
+      "avatar": "https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/02/Capita-Marvel-2.jpg"
     },
     {
       "id": 2,
-      "name": "cleitonsouza",
-      "avatar": "https://avatars0.githubusercontent.com/u/4669899?s=50&v=4"
+      "name": "Homem de Ferro",
+      "avatar": "https://s.profissionaisti.com.br/wp-content/uploads/2018/07/iron-man-elon-musk.jpg"
     },
     {
       "id": 3,
-      "name": "pellizzetti",
-      "avatar": "https://avatars2.githubusercontent.com/u/16545335?s=50&v=4"
+      "name": "Doutor Estranho",
+      "avatar": "https://noticiando.net/wp-content/uploads/2018/06/doutor-estranho.jpg"
     },
     {
       "id": 4,
-      "name": "jpdemagalhaes",
-      "avatar": "https://avatars3.githubusercontent.com/u/7268910?s=50&v=4"
+      "name": "Pantera Negra",
+      "avatar": "https://www.minhaseriefavorita.com/wp-content/uploads/2018/06/melhores-curiosidades-pantera-negra-da-marvel-comics-850x510.jpg"
     },
     {
       "id": 5,
-      "name": "jpedroschmitz",
-      "avatar": "https://avatars0.githubusercontent.com/u/26466516?s=50&v=4"
+      "name": "Viúva Negra",
+      "avatar": "https://www.einerd.com.br/wp-content/uploads/2019/09/Vi%C3%BAva-Negra-capa.jpg"
     }
   ]
 }
